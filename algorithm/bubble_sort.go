@@ -1,5 +1,6 @@
 package algorithm
 
+//not really useful because slow, It's mainly used when you learn algo.
 func Bubble_sort(nums []int) []int {
 	swapping := true
 	end := len(nums)

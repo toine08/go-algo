@@ -6,7 +6,6 @@ import (
 	"github.com/toine08/go-algo/algorithm"
 )
 
-//nice to sort quickly very small dataset or partially sorted dataset, stable
 
 func main() {
 	nums := []int{1, 3, 2, 5, 4}
